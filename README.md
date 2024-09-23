@@ -14,7 +14,13 @@ By integrating these tools, researchers can efficiently track code
 changes, collaborate seamlessly, and document their entire process from
 data analysis to manuscript development. GitHub allows for version
 control, meaning every step in the research process is logged and
-reversible, ensuring that all modifications can be traced back.
+reversible, ensuring that all modifications can be traced back. This is
+Takashi.
 
 ``` r
+```
+
+``` r
+print("hi, this is an modification request from Takashi")
+#> [1] "hi, this is an modification request from Takashi"
 ```
