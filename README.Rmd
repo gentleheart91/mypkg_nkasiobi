@@ -28,7 +28,7 @@ By integrating these tools, researchers can efficiently track code changes, coll
 
 
 ```{r}
-print("hi, this is an modification request from Takashi")
+print("hi, this is an modification request from Takashi   ")
 
 ```
 

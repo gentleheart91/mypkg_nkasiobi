@@ -19,12 +19,10 @@ control, meaning every step in the research process is logged and
 reversible, ensuring that all modifications can be traced back. This is
 Takashi.
 
-Practice research collaboration
-
 ``` r
 ```
 
 ``` r
-print("hi, this is an modification request from Takashi")
-#> [1] "hi, this is an modification request from Takashi"
+print("hi, this is an modification request from Takashi   ")
+#> [1] "hi, this is an modification request from Takashi   "
 ```
