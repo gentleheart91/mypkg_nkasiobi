@@ -1,4 +1,12 @@
 
+#' Title:mylog()
+#'
+#' @param x is a vector
+#'
+#' @return log function
+#' @export
+#'
+#' @examples
 mylog <- function(x){
   n <- length(x)
   res <- numeric(n)
